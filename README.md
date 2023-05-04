@@ -1,6 +1,10 @@
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fcommerce&project-name=commerce&repo-name=commerce&demo-title=Next.js%20Commerce&demo-url=https%3A%2F%2Fdemo.vercel.store&demo-image=https%3A%2F%2Fbigcommerce-demo-asset-ksvtgfvnd.vercel.app%2Fbigcommerce.png&env=SHOPIFY_STOREFRONT_ACCESS_TOKEN,SHOPIFY_STORE_DOMAIN,SITE_NAME,TWITTER_CREATOR,TWITTER_SITE)
 
-# Next.js Commerce
+# Next.js Swell Commerce
+
+## 🔴 This repository is currently a **Work in Progress** 🔴
+
+> The Swell Team is currently working on supporting the Vercel Commerce v2. Updates will be made to this repository. If you'd like to visit the Next.js Commerce v1 Repo with Swell Backend Support, you can do so [here](https://github.com/swellstores/nextjs-commerce).
 
 > Note: Looking for Next.js Commerce v1? View the [code](https://github.com/vercel/commerce/tree/v1), [demo](https://commerce-v1.vercel.store), and [release notes](https://github.com/vercel/commerce/releases/tag/v1)
 
